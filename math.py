@@ -1,10 +1,10 @@
-#add
+#addition
 def add(x,y):
     pass
-#sub
+#subtraction
 def subtract(x,y):
     pass
-#mul
+#multiplication
 def multiply(x,y):
     pass
 #divide
